@@ -18,7 +18,7 @@ Run `personalized_greeting.py` and enter your name when prompted.
 
 ## How to Run
 1. Clone the repository:
-    git clone https://github.com/yourusername/python-assignment-1.git
+    git clone https://github.com/rahulsisodiya0109/python-assignment-1.git
 2. Navigate to the folder:
     cd python-assignment-1
 3. Run the scripts:
